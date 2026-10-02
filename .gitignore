@@ -1,0 +1,36 @@
+# Virtual Environments
+.venv311/
+env/
+ENV/
+
+# Python byte-compiled data
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution and packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Unit test and coverage reports
+.tox/
+.nox/
+.coverage
+.pytest_cache/
+
+# Local environment variables
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Large Data Files & Folders
+archive (1)/
+files/
+players/
+*.csv
+*.pkl
+
